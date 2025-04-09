@@ -9,13 +9,13 @@ This project focuses on predicting the Air Quality Index (AQI) based on a datase
 The repository contains the following files:
 
 * `data/`: This directory contains the AQI dataset used for the project (e.g., `aqi_data.csv`).
-* `notebooks/`: This directory contains the Jupyter Notebook (`aqi_prediction.ipynb`) with the code for data exploration, model building, training, evaluation, and analysis.
+* `notebooks/`: This directory contains the Jupyter Notebook (`Data Mining Assignment_ 23081013.ipynb`) with the code for data exploration, model building, training, evaluation, and analysis.
 * `README.md`: This file (the current one) provides an overview of the project.
 * `requirements.txt`: Lists the Python libraries required to run the code.
 
 ## Code Description
 
-The Jupyter Notebook (`aqi_prediction.ipynb`) includes the following steps:
+The Jupyter Notebook (`Data Mining Assignment_ 23081013.ipynb`) includes the following steps:
 
 1.  **Data Loading and Exploration:**
     * Loading the AQI dataset.
@@ -46,7 +46,7 @@ The Jupyter Notebook (`aqi_prediction.ipynb`) includes the following steps:
 
 ## Requirements
 
-To run the code in the `notebooks/aqi_prediction.ipynb` file, you will need to have Python and the following libraries installed. You can install these using pip:
+To run the code in the `notebooks/Data Mining Assignment_ 23081013.ipynb` file, you will need to have Python and the following libraries installed. You can install these using pip:
 
 ```bash
 pip install -r requirements.txt
